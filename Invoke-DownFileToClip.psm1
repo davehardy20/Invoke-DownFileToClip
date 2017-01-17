@@ -1,4 +1,4 @@
-﻿Function Invoke-DownFileToDisk 
+﻿Function Invoke-DownFileToClip
 {
     <#
             .Synopsis
